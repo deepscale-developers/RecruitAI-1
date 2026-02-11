@@ -48,7 +48,7 @@ export default function PublicApplicationFormPage({
     question2: "Describe your experience leading a project from design to deployment",
     question3: "How do you approach testing in your frontend projects?",
     question4: "Tell us about your experience with TypeScript",
-    applicationCloseDate: "2025-12-31",
+    applicationCloseDate: "2026-12-31",
     applicationCloseTime: "23:59",
   });
   const [formData, setFormData] = useState<FormData>({
